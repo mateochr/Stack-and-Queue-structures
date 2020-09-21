@@ -5,8 +5,8 @@
 
 ## Files
 
-* IntQueue.java: stack interface.
-* IntQueueImpl.java: stack implementation.
+* IntQueue.java: queue interface.
+* IntQueueImpl.java: queue implementation.
 * ListNode.java: Singly linked list implementation.
 * NetBenefit.java: Main program that uses all the above to solve a basic logistics problem.
 * example.txt: Simple example.
